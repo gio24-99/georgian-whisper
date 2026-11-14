@@ -11,3 +11,5 @@ results/*_predictions.csv
 __pycache__/
 *.pyc
 runs/
+
+.idea/

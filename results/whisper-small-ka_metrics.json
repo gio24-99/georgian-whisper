@@ -1,0 +1,11 @@
+{
+  "name": "whisper-small-ka",
+  "model": "outputs/whisper-small-ka/final",
+  "adapter": null,
+  "split": "test",
+  "num_samples": 14258,
+  "wer": 27.92,
+  "cer": 8.81,
+  "real_time_factor": 0.0262,
+  "device": "NVIDIA GeForce RTX 4070 Laptop GPU"
+}

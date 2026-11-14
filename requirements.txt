@@ -1,0 +1,11 @@
+# Install PyTorch with CUDA first, following https://pytorch.org/get-started/locally/
+transformers>=4.45
+accelerate
+peft
+bitsandbytes
+librosa
+soundfile
+pandas
+jiwer
+tensorboard
+gradio

@@ -1,0 +1,11 @@
+{
+  "name": "public-whisper-small-ka",
+  "model": "sanchit-gandhi/whisper-small-ka-1k-steps",
+  "adapter": null,
+  "split": "test",
+  "num_samples": 14258,
+  "wer": 46.33,
+  "cer": 12.22,
+  "real_time_factor": 0.0258,
+  "device": "NVIDIA GeForce RTX 4070 Laptop GPU"
+}

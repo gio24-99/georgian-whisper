@@ -1,0 +1,11 @@
+{
+  "name": "whisper-small-zeroshot",
+  "model": "openai/whisper-small",
+  "adapter": null,
+  "split": "test",
+  "num_samples": 14258,
+  "wer": 448.3,
+  "cer": 162.36,
+  "real_time_factor": 0.0261,
+  "device": "NVIDIA GeForce RTX 4070 Laptop GPU"
+}

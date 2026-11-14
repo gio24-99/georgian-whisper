@@ -1,0 +1,13 @@
+# data and model weights (dataset terms forbid re-sharing; weights live on Hugging Face)
+data/
+outputs/
+*.tar.gz
+
+# full prediction files contain dataset sentences: keep them local
+results/*_predictions.csv
+
+# python / environment
+.venv/
+__pycache__/
+*.pyc
+runs/

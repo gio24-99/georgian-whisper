@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/57b07cc1-3ffa-4e19-8ebf-72c5e244ff0b
+
+
+
 # Whisper for Georgian (ქართული) 🇬🇪
 
 Fine-tuning OpenAI Whisper-small for Georgian speech recognition: **448% → 27.9% word error rate** on the Common Voice Georgian test set, about **40% fewer word errors than the previous public Georgian Whisper-small**, trained on a single laptop GPU.
